@@ -1,4 +1,6 @@
-      Yolo v3 install
+ my evernotelinke :   
+ https://www.evernote.com/client/web?login=true#?anb=true&b=2b5c6996-d89d-4867-8404-e3eb5e72ef2a&n=26a3f24a-3af8-4214-8606-8a07313d8d82&s=s415&
+     Yolo v3 install
  
     事前準備:
           1. 確定Nvidia Driver是否正常  nvidia-smi
@@ -110,6 +112,7 @@ cfg/obj.cfg(_______)
 ~/Downloads/darknet/backup/obj.backup(訓練權重)           
 
 
-參考網站     yolo v3 官方網站:   https://pjreddie.com/darknet/yolo/
-                         darknet 跟yolov3在同一個網站裡面:   https://pjreddie.com/darknet/install/
-                        參數調整網頁：https://towardsdatascience.com/tutorial-build-an-object-detection-system-using-yolo-9a930513643a
+參考網站     
+yolo v3 官方網站:   https://pjreddie.com/darknet/yolo/
+darknet 跟yolov3在同一個網站裡面:   https://pjreddie.com/darknet/install/
+參數調整網頁：https://towardsdatascience.com/tutorial-build-an-object-detection-system-using-yolo-9a930513643a
